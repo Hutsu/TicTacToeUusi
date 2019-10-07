@@ -1,2 +1,0 @@
-# TicTacToeUusi
-Created with CodeSandbox
